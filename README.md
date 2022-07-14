@@ -17,8 +17,8 @@ I'm just getting this journey started, so bare with me while I work on getting c
 - ⚡ Fun facts about me: ...
   - I have an unhealthy predilection for :coffee:
   - :cat:s rule, :dog:s drool
-  - I :metal: post-rock/metal
-  - I love sci-fi :vulcan_salute:, especially the classics by Asimov, Clarke, and Heinlein. 
+  - I listen to post-rock/metal :metal:
+  - I love sci-fi, especially the classics by Asimov, Clarke, and Heinlein, and Star Wars and Star Trek :vulcan_salute:
 
 <!--
 **markroloff/markroloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
