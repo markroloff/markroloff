@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Mark Roloff, an Azure cloud engineer that loves exploring new ways to let automation do the hard work for me.
+
+- 🔭 I’m currently working on ...
+  - A total revamp of my education and training. You see, I burned out for a while, which led to a period of low-growth. Time to change that.
+  - A place to start blogging about the items I plan on learning below.
+  
+- 🌱 I’m currently learning ...
+  - Using AzDO YAML pipelines to deploy to IIS, which will lead to progressively more complex solutions
+  - Terraform to handle the infrastructure around the labs that I create
+  
+My intent is to blog about the scenarios that I create, my solutions to those scenarios, put those solutions into as much code as I can, and to freely share it all here.
+
+I'm just getting this journey started, so bare with me while I work on getting content together.
+
+- ⚡ Fun facts about me: ...
+  - I have an unhealthy predilection for :coffee:
+  - :cat:s rule, :dog:s drool
+  - I :metal: post-rock/metal
+  - I love sci-fi :vulcan_salute:, especially the classics by Asimov, Clarke, and Heinlein. 
 
 <!--
 **markroloff/markroloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
